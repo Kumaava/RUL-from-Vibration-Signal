@@ -1,5 +1,7 @@
 Datafiles/
-2nd_test
-.DS-Store
+
+2nd_test/
+
+*.DS-Store
 
 .ipynb_checkpoints
