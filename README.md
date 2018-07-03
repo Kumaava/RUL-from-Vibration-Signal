@@ -1,10 +1,8 @@
 ## RUL-from-Vibration-Signal
 
 #### Problem: To predict the remaining life of a bearing in industrial assets such as pumps, compressors, gearbox etc. Please have a look at the supporting document.
-Please read the Readme Document here and refer to the 2nd Test & the research paper:
-https://www.dropbox.com/sh/l0s38bee89wflbx/AAA-Ua4G4YKsjR2UNEuPj7uIa?dl=0
-Here is the dataset:
-https://www.dropbox.com/sh/475lcl9j3s9tfum/AAD45VnnHgxdaIu-qv6AAwp1a?dl=0
+Refere to the research paper : ANN Pump Life Prediction.pdf
+For data contact  : avaneesh.paper@gmail.com
 
 
 #### Deliverable:
